@@ -1,3 +1,3 @@
 # pythonScriptToPlot
 
-$\alpha$
+$`\alpha`$
